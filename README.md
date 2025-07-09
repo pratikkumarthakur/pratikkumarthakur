@@ -11,7 +11,7 @@
 🔍 Exploring the **latest web technologies** — from frontend animations to backend APIs  
 🛠️ Currently working on **Blogger** & **Vidya Vani**  
 💬 Love collaborating on clean UI and performance-first projects  
-📫 Reach me at: **`thakurpratik@example.com`**
+📫 Reach me at: **`pratikkumartkr@gmail.com`**
 
 > ⚡ *"I turn coffee ☕ into code, and bugs into features.* 😄
 
